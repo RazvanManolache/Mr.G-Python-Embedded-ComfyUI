@@ -7,3 +7,4 @@ Lib/site-packages/*
 !Lib/site-packages/pkg_resources
 !Lib/site-packages/_distutils_hack
 !Lib/site-packages/distutils-precedence.pth
+/scripts/*.exe
